@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ajay Maken
+- 👋 Hi, I’m Ajay Maken GS of Indian National Congress
 - 👀 I’m interested in Indian Politics
 - 🌱 I’m currently learning Data Management and Analysis
 - 💞️ I’m looking to collaborate on Public Survey Design
