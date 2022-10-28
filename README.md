@@ -1,3 +1,4 @@
+- This is an analysis of relationship during 2017 elections, between the Gujarat Urban Votes and BJP strike rate in all the assembly constituencies. 
 - 👋 Hi, I’m Ajay Maken GS of Indian National Congress
 - 👀 I’m interested in Indian Politics
 - 🌱 I’m currently learning Data Management and Analysis
